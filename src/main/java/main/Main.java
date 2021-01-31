@@ -1,3 +1,5 @@
+package main;
+
 import views.MainFrame;
 
 public class Main {

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cifradocesar.fes.aragon:jar">
+    <output-path>$PROJECT_DIR$/target/artifacts/cifradocesar_fes_aragon_jar</output-path>
+    <root id="archive" name="cifradocesar.fes.aragon.jar">
+      <element id="module-output" name="cifradocesar.fes.aragon" />
+    </root>
+  </artifact>
+</component>
